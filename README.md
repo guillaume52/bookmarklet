@@ -6,6 +6,7 @@ The JS code needs to be added as a bookmark on your browser (tested only on Safa
 The GA dashboard should be constructed as follow:
 Flat table:
 Dimensions:First column should be the variant of the test, then you can have as mnay dimension as you please.
-Metrics: any metrics you like howver this is built for non binomial data so calculated metrics or averged metrics will either not work or returned wrong results.
+Metrics: any metrics you like howver this is built for non binomial data so calculated metrics or averaged metrics will either not work or returned wrong results.
+Segements: On segment for the Users, and up to 3 segments identifying each conversion point
 template below
 https://analytics.google.com/analytics/web/template?uid=kNwNceGdQUW50cR9P-74hw
